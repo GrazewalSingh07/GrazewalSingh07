@@ -21,7 +21,7 @@ Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :mailbox:How to reach me:   <div id="badges">
     <a href="https://www.linkedin.com/in/grazewal-singh/">
-      <img src="https://image.similarpng.com/very-thumbnail/2021/01/Linkedin-icon-design-premium-vector-PNG.png" alt="LinkedIn Badge"/>
+      <img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
