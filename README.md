@@ -23,9 +23,9 @@ Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplc
     <a href="https://www.linkedin.com/in/grazewal-singh/">
       <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="LinkedIn Badge" width="30"/>
     </a>
-    <a href="your-youtube-URL">
+<!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    </a> -->
     <a href="your-twitter-URL">
       <img src="https://www.freepnglogos.com/uploads/twitter-red-logo-png-9.png" alt="Twitter Badge" width="30"/>
     </a>
