@@ -13,16 +13,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m currently learning MERN at Masai School
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve DSA problems and read tech articles.
 
 - :mailbox:How to reach me:   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/grazewal-singh/">
+      <img src="https://image.similarpng.com/very-thumbnail/2021/01/Linkedin-icon-design-premium-vector-PNG.png" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
