@@ -27,7 +27,7 @@ Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplc
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://www.freepnglogos.com/uploads/twitter-red-logo-png-9.png" alt="Twitter Badge" width:"30"/>
     </a>
   </div>
 <!-- - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
