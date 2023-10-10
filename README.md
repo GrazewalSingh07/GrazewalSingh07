@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently learning MERN at Masai School
+- :telescope: I’m a Software Engineer
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve DSA problems and read tech articles.
