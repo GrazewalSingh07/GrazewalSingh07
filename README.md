@@ -18,7 +18,7 @@ Professional Full-Stack Web Developer <img src="https://media.giphy.com/media/WU
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: Love to solve DSA problems and read tech articles.
-- ➕ My portfolio, https://grazewal-singh-portfolio.netlify.app/
+- ➕ My portfolio, https://grazewalsingh.vercel.app/
 - :mailbox:How to reach me:   <div id="badges">
     <a href="https://www.linkedin.com/in/grazewal-singh/">
       <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="LinkedIn Badge" width="30"/>
