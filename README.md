@@ -13,11 +13,11 @@
 ---
 
 ### :woman_technologist: About Me :
-Aspiring Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Software Engineer
+Professional Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: A Software Engineer
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve DSA problems and read tech articles.
+- :zap: Love to solve DSA problems and read tech articles.
 - ➕ My portfolio, https://grazewal-singh-portfolio.netlify.app/
 - :mailbox:How to reach me:   <div id="badges">
     <a href="https://www.linkedin.com/in/grazewal-singh/">
